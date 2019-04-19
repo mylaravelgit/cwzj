@@ -263,28 +263,28 @@
                 </dl>
             </div>
         </div>
-{{--        <table>--}}
-{{--            <tbody><tr>--}}
-{{--                <td valign="middle" class="td1">只收政府规定的费用，免佛山工商代理注册公司服务费 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>--}}
-{{--                <td valign="middle" class="td2"><div class="c_m">省钱</div></td>--}}
-{{--                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">自己办理也需要交付政府规定费用，还需要交通费及时间</td>--}}
-{{--            </tr>--}}
-{{--            <tr>--}}
-{{--                <td valign="middle" class="td1">全程佛山代办公司注册，可提供佛山公司注册地址 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>--}}
-{{--                <td valign="middle" class="td2"><div class="c_m">省心</div></td>--}}
-{{--                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">需要找佛山公司注册地址，再跑佛山工商注册流程</td>--}}
-{{--            </tr>--}}
-{{--            <tr>--}}
-{{--                <td valign="middle" class="td1"> 精通佛山工商注册公司流程，最快只需3天 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>--}}
-{{--                <td valign="middle" class="td2"><div class="c_m">省时</div></td>--}}
-{{--                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">自己办理不熟悉佛山工商注册流程，可能需要1个月时间</td>--}}
-{{--            </tr>--}}
-{{--            <tr>--}}
-{{--                <td valign="middle" class="td1">佛山注册公司是复杂的过程，专业运营团队，简单快速 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>--}}
-{{--                <td valign="middle" class="td2"><div class="c_m">省事</div></td>--}}
-{{--                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">流程复杂而繁琐，需跑佛山市工商局/税务局/银行等</td>--}}
-{{--            </tr>--}}
-{{--            </tbody></table>--}}
+        <table>
+            <tbody><tr>
+                <td valign="middle" class="td1">只收政府规定的费用，免佛山工商代理注册公司服务费 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>
+                <td valign="middle" class="td2"><div class="c_m">省钱</div></td>
+                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">自己办理也需要交付政府规定费用，还需要交通费及时间</td>
+            </tr>
+            <tr>
+                <td valign="middle" class="td1">全程佛山代办公司注册，可提供佛山公司注册地址 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>
+                <td valign="middle" class="td2"><div class="c_m">省心</div></td>
+                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">需要找佛山公司注册地址，再跑佛山工商注册流程</td>
+            </tr>
+            <tr>
+                <td valign="middle" class="td1"> 精通佛山工商注册公司流程，最快只需3天 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>
+                <td valign="middle" class="td2"><div class="c_m">省时</div></td>
+                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">自己办理不熟悉佛山工商注册流程，可能需要1个月时间</td>
+            </tr>
+            <tr>
+                <td valign="middle" class="td1">佛山注册公司是复杂的过程，专业运营团队，简单快速 <img src="./foshan/yes.png" width="21" height="21" alt="" class="l"></td>
+                <td valign="middle" class="td2"><div class="c_m">省事</div></td>
+                <td valign="middle" class="td3"><img src="./foshan/no.png" width="21" height="21" alt="" class="r">流程复杂而繁琐，需跑佛山市工商局/税务局/银行等</td>
+            </tr>
+            </tbody></table>
     </div>
     <div class="pure-u-1 r_5" style="padding:96px 0px">
         <p><img src="./foshan/call_phone.png" width="366" height="65" alt="" style="margin: 0 auto;"></p>

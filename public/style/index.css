@@ -9,7 +9,7 @@ body{ margin:0px; padding:0px;}
 input {outline:none;}
 a img{ border:0px;}
 a{ text-decoration:none; list-style:none;}
-img{ display:block;}
+/*img{ display:block;}*/
 ul li{ text-decoration:none; list-style:none;}
 input button{ border:none; outline:none;}
 .clear{ clear:both;}
