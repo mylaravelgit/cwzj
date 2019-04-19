@@ -52,6 +52,9 @@
     <p></p>
     <div class="ctzc"><img title="佛山公司注册" alt="佛山公司注册" src="./foshan/ctgongsizhuce.png" ></div>
 </div>
+
+
+<!--中部 -->
 <div class="pure-g">
     <div class="pure-u-1 r_1">
         <div class="wrapper">

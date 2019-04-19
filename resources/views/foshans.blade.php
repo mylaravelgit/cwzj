@@ -82,44 +82,28 @@
 <div class="fullSlide">
     <div class="bd">
         <ul style="position: relative; width: 1349px; height: 580px;">
-            <li style="background: url('style/banner.png') center 0px no-repeat rgb(222, 213, 161); position: absolute; width: 1349px; left: 0px; top: 0px;"><a href="javascript:void(0);" onclick="open_chat()"></a></li>
+            <li style="background: url('./foshan/background.jpg') center 0px no-repeat rgb(222, 213, 161); position: absolute; width: 1349px; left: 0px; top: 0px;"><a href="javascript:void(0);" onclick="open_chat()"></a></li>
         </ul>
     </div>
     <!--	<div class="hd"><ul></ul></div>
       <span class="prev"></span>
       <span class="next"></span>-->
+
     <!--banner_left-->
     <div class="banner_left_box">
-        <p class="banner_left_title">常见问题快速咨询</p>
-        <a href="javascript:void(0);" onclick="open_chat()">
-            <div class="pro_01">
-                <p>注册公司流程</p>
-                <div style="width: 50%;">注册公司需要哪些流程？</div>
-                <div style="width: 50%;">多久可以拿到营业执照?</div>
-                <div>是否需要股东到场办理?</div>
-                <div class="clear"></div>
-            </div>
-        </a>
-        <div class="clear"></div>
-        <a href="javascript:void(0);" onclick="open_chat()">
-            <div class="pro_03">
-                <p>注册公司资料</p>
-                <div>注册公司需要提供哪些证件？</div>
-                <div>注册地址没有租赁合同怎么办？</div>
-                <div>经营范围怎么选择？</div>
-            </div>
-        </a> <a href="javascript:void(0);" onclick="open_chat()">
-            <div class="pro_02">
-                <p>注册公司费用</p>
-                <div>内资公司 &nbsp;&nbsp;&nbsp;<span>查看报价</span></div>
-                <div>外资公司 &nbsp;&nbsp;&nbsp;<span>查看报价</span></div>
-                <div>集团公司 &nbsp;&nbsp;&nbsp;<span>查看报价</span></div>
-                <div>分公司 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>查看报价</span></div>
-                <div>个体户 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>查看报价</span></div>
-                <div class="clear"></div>
-            </div>
-        </a> </div>
+
+        <h1 style="font-size: 80px">免费佛山工商代理注册公司</h1>
+        <p style="margin-top:50px; font-size:50px; text-align:center">省心/省钱的全程服务</p>
+        <p style="margin-top:40px; font-size:40px; text-align:center">一站式服务体系  保证满足您的各种服务需求</p>
+        <p style="margin-top:114px; font-size:40px; text-align:center">免费佛山代办营业执照</p>
+        <p class="go_btn" style="margin-top:10px;">
+            <a href="javascript:void(0);" onclick="open_chat()"style="">点我立即咨询</a>
+        </p>
+        <p></p>
+        <div class="ctzc"><img title="佛山公司注册" alt="佛山公司注册" src="./foshan/ctgongsizhuce.png" ></div>
 </div>
+
+<!--中部-->
 <div class="pure-g">
     <div class="pure-u-1 r_1">
         <div class="wrapper">
