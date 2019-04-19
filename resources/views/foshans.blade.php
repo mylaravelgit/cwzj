@@ -18,21 +18,21 @@
             window.open(url, "iconBack10咨询", "height=600, width=750, top="+iTop+", left="+iLeft+", toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no, status=no");
         }
     </script>
-{{--    <script>--}}
-{{--        (function() {--}}
-{{--            var _53code = document.createElement("script");--}}
-{{--            _53code.src = "https://tb.53kf.com/code/code/0a732103a6ad102589db8e9cad704940/1";--}}
-{{--            var s = document.getElementsByTagName("script")[0];--}}
-{{--            s.parentNode.insertBefore(_53code, s);})();--}}
-{{--    </script>--}}
+    <script>
+        (function() {
+            var _53code = document.createElement("script");
+            _53code.src = "https://tb.53kf.com/code/code/0a732103a6ad102589db8e9cad704940/1";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(_53code, s);})();
+    </script>
     </head>
 
-<body>
+<body  onclick="open_chat()">
 
 <!--logo-->
 
 <!--banner-->
-<div class="top">
+<div class="top"  onclick="open_chat()">
 
     <div id="header">
 {{--        <div class="wrapper header_top">--}}
@@ -51,13 +51,13 @@
     </div>
     <div class="wrapper nav" >
         <ul>
-            <li><a href="javascript:void(0);">首页</a></li>
-            <li><a href="javascript:void(0);" >公司注册</a></li>
-            <li><a href="javascript:void(0);">代理记账</a></li>
-            <li><a href="javascript:void(0);">工商服务</a></li>
-            <li><a href="javascript:void(0);">财税服务</a></li>
-            <li><a href="javascript:void(0);">公司变更</a></li>
-            <li><a href="javascript:void(0);">商标注册</a></li>
+            <li><a href="javascript:void(0);" onclick="open_chat()">首页</a></li>
+            <li><a href="javascript:void(0);" onclick="open_chat()">公司注册</a></li>
+            <li><a href="javascript:void(0);" onclick="open_chat()">代理记账</a></li>
+            <li><a href="javascript:void(0);" onclick="open_chat()">工商服务</a></li>
+            <li><a href="javascript:void(0);" onclick="open_chat()">财税服务</a></li>
+            <li><a href="javascript:void(0);" onclick="open_chat()">公司变更</a></li>
+            <li><a href="javascript:void(0);" onclick="open_chat()">商标注册</a></li>
 
         </ul>
     </div>
