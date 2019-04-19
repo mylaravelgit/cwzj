@@ -18,21 +18,21 @@
             window.open(url, "iconBack10咨询", "height=600, width=750, top="+iTop+", left="+iLeft+", toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no, status=no");
         }
     </script>
-    <script>
-        (function() {
-            var _53code = document.createElement("script");
-            _53code.src = "https://tb.53kf.com/code/code/0a732103a6ad102589db8e9cad704940/1";
-            var s = document.getElementsByTagName("script")[0];
-            s.parentNode.insertBefore(_53code, s);})();
-    </script>
+{{--    <script>--}}
+{{--        (function() {--}}
+{{--            var _53code = document.createElement("script");--}}
+{{--            _53code.src = "https://tb.53kf.com/code/code/0a732103a6ad102589db8e9cad704940/1";--}}
+{{--            var s = document.getElementsByTagName("script")[0];--}}
+{{--            s.parentNode.insertBefore(_53code, s);})();--}}
+{{--    </script>--}}
     </head>
 
-<body  onclick="open_chat()">
+<body >
 
-<!--logo-->
+<!--logo     onclick="open_chat()"-->
 
 <!--banner-->
-<div class="top"  onclick="open_chat()">
+<div class="top">
 
     <div id="header">
 {{--        <div class="wrapper header_top">--}}
@@ -64,8 +64,9 @@
     <h1 style="font-size: 50px">免费佛山工商代理注册公司</h1>
     <p style="margin-top:50px; font-size:40px; text-align:center">省心/省钱的全程服务</p>
     <p style="margin-top:40px; font-size:30px; text-align:center">一站式服务体系  保证满足您的各种服务需求</p>
-    <p style="margin-top:114px; font-size:30px; text-align:center">免费佛山代办营业执照</p>
-    <p class="go_btn" style="margin-top:10px;">
+    <h1 style="font-size: 50px">提供佛山公司注册地址</h1>
+    <p style="margin-top:30px; font-size:30px; text-align:center">免费佛山代办营业执照</p>
+    <p class="go_btn" style="margin-top:20px;">
         <a href="javascript:void(0);" onclick="open_chat()"style="">点我立即咨询</a>
     </p>
     <p></p>
@@ -354,7 +355,7 @@
     </div>
     <div class="pure-u-1 r_8">
         <div class="wrapper">
-            <h2>常见问题</h2>
+            <h2>注册公司常见问题</h2>
             <ul>
                 <li>
                     <div class="icon_q"></div>
@@ -380,6 +381,43 @@
                     <div class="icon_a"></div>
                     <div class="a">佛山市工商局简化佛山公司注册登记流程；佛山公司注册资金实行认缴制。 </div>
                 </li>
+
+                <li>
+                    <div class="icon_q"></div>
+                    <div class="q"><h3>公司注册资金还需要验资吗？</h3></div>
+                </li>
+                <li class="b_line">
+                    <div class="icon_a"></div>
+                    <div class="a">公司注册资金不再强制验资，但要给企业一个期限，在规定期限内将注册资金款项打入公司账户进行验资。 </div>
+                </li>
+
+                <li>
+                    <div class="icon_q"></div>
+                    <div class="q"><h3>认缴制和实缴制的区别？</h3></div>
+                </li>
+                <li class="b_line">
+                    <div class="icon_a"></div>
+                    <div class="a">认缴指企业的法定注册资本，实缴指企业经过验资认定的实际已缴的注册资本中的一部分或全部。 </div>
+                </li>
+
+                <li>
+                    <div class="icon_q"></div>
+                    <div class="q"><h3>请问分公司和子公司的区别有哪些？</h3></div>
+                </li>
+                <li class="b_line">
+                    <div class="icon_a"></div>
+                    <div class="a">分公司不具有法人资格，其民事责任由公司承担。子公司具有独立的法人资格，依法独立承担民事责任。 </div>
+                </li>
+
+                <li>
+                    <div class="icon_q"></div>
+                    <div class="q"><h3>公司经营范围可以随便加吗？</h3></div>
+                </li>
+                <li class="b_line">
+                    <div class="icon_a"></div>
+                    <div class="a">企业可根据经营需要对经营范围做增项或减项，但都需要到工商局做变更登记进行备案。 </div>
+                </li>
+
             </ul>
         </div>
     </div>
