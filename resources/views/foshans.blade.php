@@ -100,7 +100,7 @@
             <a href="javascript:void(0);" onclick="open_chat()"style="">点我立即咨询</a>
         </p>
         <p></p>
-        <div class="ctzc"><img title="佛山公司注册" alt="佛山公司注册" src="./foshan/ctgongsizhuce.png" ></div>
+{{--        <div class="ctzc"><img title="佛山公司注册" alt="佛山公司注册" src="./foshan/ctgongsizhuce.png" ></div>--}}
 </div>
 
 <!--中部-->
