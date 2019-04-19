@@ -533,7 +533,7 @@ table {
 /**
  * Always hide an element when it has the `hidden` HTML attribute.
  */
-.top {background:url(../foshan/background.jpg) top center no-repeat; width:100%; height:668px; color:#fff; background-position: 0px 120px;}
+.top {background:url(../foshan/background.jpg) top center no-repeat; width:100%; height:668px; color:#fff; background-position: 0px 0px;}
 
 [hidden] {
     display: none !important;
@@ -2520,7 +2520,7 @@ table {
 /**
  * Always hide an element when it has the `hidden` HTML attribute.
  */
-.top {background:url(../foshan/background.jpg) top center no-repeat; width:100%; height:668px; color:#fff; background-position: 0px 120px;}
+.top {background:url(../foshan/background.jpg) top center no-repeat; width:100%; height:668px; color:#fff; background-position: 0px 0px;}
 
 [hidden] {
     display: none !important;
@@ -3734,7 +3734,7 @@ body {
     width: 1200px;
     overflow: hidden;
 }
-.wrapper ul li a {color: #000000;font-size: 20px;}
+.wrapper ul li a {color: #FFFFFF;font-size: 20px;}
 
     .go_btn a{
       	text-decoration: none;

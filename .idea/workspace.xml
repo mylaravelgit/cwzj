@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8515433-bd60-4720-beaf-f81e252861db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/style/logo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/logo3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshans/lence-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshans/lence-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshans/lence-img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshans/lence-img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/foshans/lence-img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/top_gg2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/style/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/style/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/foshans/zc.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/foshans/zc.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/style/top_call.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/style/top_call.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/foshans.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/foshans.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,28 +28,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/style/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2109">
-              <caret line="111" column="18" selection-start-line="111" selection-start-column="12" selection-end-line="111" selection-end-column="18" />
+            <state relative-caret-position="252">
+              <caret line="286" column="23" selection-start-line="286" selection-start-column="22" selection-end-line="286" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/foshans/zc.css">
+        <entry file="file://$PROJECT_DIR$/../Desktop/网页/易航财税_files/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="3725" column="1" selection-start-line="3725" selection-end-line="3725" selection-end-column="1" />
+            <state relative-caret-position="-10920">
+              <caret line="9" column="1" selection-start-line="9" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Desktop/网页/顶呱呱工商注册.html">
+        <entry file="file://$PROJECT_DIR$/resources/views/foshans.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            <state relative-caret-position="-1157">
+              <caret line="393" column="20" selection-start-line="393" selection-start-column="20" selection-end-line="393" selection-end-column="20" />
               <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Desktop/网页/易航财税.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="291" column="5" selection-start-line="291" selection-end-line="328" selection-end-column="6" />
+              <folding>
+                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#8;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -53,17 +75,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>欢迎来到春天财务</find>
-      <find>春天</find>
-      <find>./佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司_files</find>
-      <find>春</find>
-      <find>佛山注册公</find>
-      <find>&lt;a target=&quot;_blank&quot; rel=&quot;nofollow&quot; href=&quot;http://p.qiao.baidu.com/cps/chat?siteId=7702124&amp;userId=10993187&quot;&gt;点我立即咨询&lt;/a&gt;</find>
-      <find>咨询</find>
-      <find>400-808-8201</find>
-      <find>kuai</find>
-      <find>.../foshan</find>
-      <find>zcgs_bg</find>
       <find>zc.css</find>
       <find>three_image</find>
       <find>iphone</find>
@@ -74,7 +85,6 @@
       <find>call_phone</find>
       <find>background.</find>
       <find>400</find>
-      <find>background.jpg</find>
       <find>logo</find>
       <find>logo.</find>
       <find>自己办理</find>
@@ -83,6 +93,18 @@
       <find>政府规定的费用，免佛山工商代理注册</find>
       <find>link</find>
       <find>.js</find>
+      <find>background.jpg</find>
+      <find>background-position</find>
+      <find>ter-box</find>
+      <find>foshan/background.jpg</find>
+      <find>们的优势</find>
+      <find>lence-txt</find>
+      <find>https://www.foshangongsizhuce.com/zhuce</find>
+      <find>理完成 即可领取以下证</find>
+      <find>ter-tit</find>
+      <find>w1180</find>
+      <find>letter-spacing</find>
+      <find>ter-</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -99,6 +121,7 @@
       <replace>&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;open_chat()&quot;style=&quot;&quot;&gt;点我立即咨询&lt;/a&gt;</replace>
       <replace>400-850-0074</replace>
       <replace>../foshan</replace>
+      <replace>./foshans</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -129,12 +152,15 @@
         <option value="$PROJECT_DIR$/../Desktop/dahaoshiguang.com.cn/index.html" />
         <option value="$PROJECT_DIR$/resources/views/foshan.blade.php" />
         <option value="$PROJECT_DIR$/public/css/common.css" />
-        <option value="$PROJECT_DIR$/public/style/index.css" />
-        <option value="$PROJECT_DIR$/public/foshans/zc.css" />
-        <option value="$PROJECT_DIR$/resources/views/foshans.blade.php" />
         <option value="$PROJECT_DIR$/../Desktop/网页/顶呱呱工商注册.html" />
+        <option value="$PROJECT_DIR$/public/foshans/zc.css" />
+        <option value="$PROJECT_DIR$/public/style/index.css" />
+        <option value="$PROJECT_DIR$/resources/views/foshans.blade.php" />
       </list>
     </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -226,7 +252,9 @@
     <option name="width" value="1020" />
     <option name="height" value="546" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -249,7 +277,7 @@
               <item name="dahaosg" type="b2602c69:ProjectViewProjectNode" />
               <item name="dahaosg" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="foshan" type="462c0819:PsiDirectoryNode" />
+              <item name="foshans" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dahaosg" type="b2602c69:ProjectViewProjectNode" />
@@ -282,24 +310,27 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/style" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/foshans" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\dahaosg\public\style" />
-      <recent name="C:\Users\Administrator\dahaosg\public\foshan" />
-      <recent name="C:\Users\Administrator\dahaosg\public" />
-      <recent name="C:\Users\Administrator\dahaosg\public\foshans" />
-      <recent name="C:\Users\Administrator\dahaosg\public\image" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\dahaosg\public\image" />
       <recent name="C:\Users\Administrator\dahaosg\public\css" />
       <recent name="C:\Users\Administrator\dahaosg\public\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\dahaosg\public\foshans" />
+      <recent name="C:\Users\Administrator\dahaosg\public\style" />
+      <recent name="C:\Users\Administrator\dahaosg\public\foshan" />
+      <recent name="C:\Users\Administrator\dahaosg\public" />
+      <recent name="C:\Users\Administrator\dahaosg\public\image" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -342,18 +373,18 @@
       <workItem from="1555594557385" duration="5902000" />
       <workItem from="1555638570208" duration="6784000" />
       <workItem from="1555654304623" duration="14359000" />
-      <workItem from="1555676387235" duration="1093000" />
+      <workItem from="1555676387235" duration="7214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63822000" />
+    <option name="totallyTimeSpent" value="69943000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12765957" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25455928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -374,7 +405,7 @@
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16109422" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25455928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -415,17 +446,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/image/201803130950_02.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/demo1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-908">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Desktop/网页/公司注册_广东老街企业管理有限公司.html" />
     <entry file="file://$PROJECT_DIR$/../Desktop/index.html" />
     <entry file="file://$PROJECT_DIR$/public/js/jquery-1.10.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -695,40 +715,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/style/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2109">
-          <caret line="111" column="18" selection-start-line="111" selection-start-column="12" selection-end-line="111" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/foshans.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-950">
-          <caret line="145" column="115" lean-forward="true" selection-start-line="145" selection-start-column="110" selection-end-line="145" selection-end-column="132" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/foshans/zc.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="3725" column="1" selection-start-line="3725" selection-end-line="3725" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Desktop/网页/顶呱呱工商注册.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshans/zc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-584">
+          <caret line="3736" column="32" selection-start-line="3736" selection-start-column="32" selection-end-line="3736" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/易航财税.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="291" column="5" selection-start-line="291" selection-end-line="328" selection-end-column="6" />
+          <folding>
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/易航财税_files/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10920">
+          <caret line="9" column="1" selection-start-line="9" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="286" column="23" selection-start-line="286" selection-start-column="22" selection-end-line="286" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/foshans.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1157">
+          <caret line="393" column="20" selection-start-line="393" selection-start-column="20" selection-end-line="393" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -42,7 +42,7 @@
 {{--            </div>--}}
 
         <div class="main">
-            <div class="logo_box"> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/logo.png" class="logo"></a> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/top_gg.png" class="top_gg"></a> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/top_call.png" class="top_call"></a>
+            <div class="logo_box"> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/logo.png" class="logo"></a> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/top_gg2.png" class="top_gg"></a> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/top_call.png" class="top_call"></a>
                 <div class="clear"></div>
             </div>
         </div>
@@ -353,6 +353,48 @@
             </div>
         </div>
     </div>
+{{--    start--}}
+
+    <div class="ter-box">
+        <div class="ter-tit">
+            <strong>办理完成 即可领取以下证件</strong>
+        </div>
+        <ul class="lence-list w1180">
+            <li>
+                <div class="lence-img">
+                    <img src="./foshans/lence-img1.jpg" tppabs="./foshans/lence-img1.jpg" alt="">
+                </div>
+                <p class="lence-txt"><em class="dib">01</em><span>营业执照正本</span></p>
+            </li>
+            <li>
+                <div class="lence-img">
+                    <img src="./foshans/lence-img2.jpg" tppabs="./foshans/lence-img2.jpg" alt="">
+                </div>
+                <p class="lence-txt"><em class="dib">02</em><span>营业执照副本</span></p>
+            </li>
+            <li>
+                <div class="lence-img">
+                    <img src="./foshans/lence-img3.jpg" tppabs="./foshans/lence-img3.jpg" alt="">
+                </div>
+                <p class="lence-txt"><em class="dib">03</em><span>开业通知书</span></p>
+            </li>
+            <li>
+                <div class="lence-img">
+                    <img src="./foshans/lence-img4.jpg" tppabs="./foshans/lence-img4.jpg" alt="">
+                </div>
+                <p class="lence-txt"><em class="dib">04</em><span>公司章程</span></p>
+            </li>
+            <li>
+                <div class="lence-img">
+                    <img src="./foshans/lence-img5.jpg" tppabs="./foshans/lence-img5.jpg" alt="">
+                </div>
+                <p class="lence-txt"><em class="dib">05</em><span>公司印章及印鉴存留卡</span></p>
+            </li>
+        </ul>
+        <a href="/"  class="go-jion">注册完成还需办理哪些业务？</a>
+    </div>
+
+{{--    end--}}
     <div class="pure-u-1 r_8">
         <div class="wrapper">
             <h2>注册公司常见问题</h2>
