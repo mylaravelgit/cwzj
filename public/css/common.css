@@ -163,6 +163,7 @@ img{
 	padding: 0 5px;
 	display: block;
 	border-bottom: 2px solid transparent;
+
 }
 .nav>ul>li.cur a{
 	color: #fd3d2a;

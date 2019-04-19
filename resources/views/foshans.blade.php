@@ -18,89 +18,58 @@
             window.open(url, "iconBack10咨询", "height=600, width=750, top="+iTop+", left="+iLeft+", toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no, status=no");
         }
     </script>
-    <script>
-        (function() {
-            var _53code = document.createElement("script");
-            _53code.src = "https://tb.53kf.com/code/code/0a732103a6ad102589db8e9cad704940/1";
-            var s = document.getElementsByTagName("script")[0];
-            s.parentNode.insertBefore(_53code, s);})();
-    </script>
+{{--    <script>--}}
+{{--        (function() {--}}
+{{--            var _53code = document.createElement("script");--}}
+{{--            _53code.src = "https://tb.53kf.com/code/code/0a732103a6ad102589db8e9cad704940/1";--}}
+{{--            var s = document.getElementsByTagName("script")[0];--}}
+{{--            s.parentNode.insertBefore(_53code, s);})();--}}
+{{--    </script>--}}
     </head>
 
 <body>
-<div style="position:fixed; width:128px; height:157px; display:block; right:0; bottom:0; z-index:999;"><img src="style/2vmm.jpg"></div>
-<!--top-->
-<div class="main">
-    <div class="top_box">
-        <div class="top">
-            <p>欢迎访问大好时光（佛山）企业管理有限公司官网！</p>
-{{--            <a href="javascript:void(0);" onclick="open_chat()">--}}
-{{--                <ul>--}}
-{{--                    <li class="li02">联系我们</li>--}}
-{{--                    <li class="li02">收藏本站</li>--}}
-{{--                    <li class="li02">在线留言</li>--}}
-{{--                    <li class="li01">网站地图</li>--}}
-{{--                    <div class="clear"></div>--}}
-{{--                </ul>--}}
-{{--            </a>--}}
-            <div class="clear"></div>
-        </div>
-    </div>
-</div>
-<!--logo-->
-<div class="main">
-    <div class="logo_box"> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/logo.png" class="logo"></a> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/top_gg.png" class="top_gg"></a> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/top_call.png" class="top_call"></a>
-        <div class="clear"></div>
-    </div>
-</div>
 
-<!--nav-->
-<div class="main">
-    <div class="nav_box">
-        <ul class="nav">
-            <a href="javascript:void(0);" onclick="open_chat()">
-                <li>网站首页</li>
-            </a> <a href="javascript:void(0);" onclick="open_chat()">
-                <li>公司注册</li>
-            </a> <a href="javascript:void(0);" onclick="open_chat()">
-                <li>公司变更</li>
-            </a> <a href="javascript:void(0);" onclick="open_chat()">
-                <li>商标注册</li>
-            </a> <a href="javascript:void(0);" onclick="open_chat()">
-                <li>代理记账</li>
-            </a> <a href="javascript:void(0);" onclick="open_chat()">
-                <li>经营许可证</li>
-            </a> <a href="javascript:void(0);" onclick="open_chat()">
-                <li style="border-right: none;">联系我们</li>
-            </a>
-            <div class="clear"></div>
-        </ul>
-    </div>
-</div>
+<!--logo-->
 
 <!--banner-->
-<div class="fullSlide">
-    <div class="bd">
-        <ul style="position: relative; width: 1349px; height: 580px;">
-            <li style="background: url('./foshan/background.jpg') center 0px no-repeat rgb(222, 213, 161); position: absolute; width: 1349px; left: 0px; top: 0px;"><a href="javascript:void(0);" onclick="open_chat()"></a></li>
+<div class="top">
+
+    <div id="header">
+{{--        <div class="wrapper header_top">--}}
+{{--            <div class="logo"><a href="/"><img src="./foshan/logo.png" style="width: 120%;height: 120%" alt="大好时光（佛山市）企业管理有限公司"></a></div>--}}
+{{--            <div class="iphone">--}}
+{{--                img< src="./foshan/iphone.png" style="width: 200%;height: 200%">--}}
+{{--            </div>--}}
+
+        <div class="main">
+            <div class="logo_box"> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/logo.png" class="logo"></a> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/top_gg.png" class="top_gg"></a> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/top_call.png" class="top_call"></a>
+                <div class="clear"></div>
+            </div>
+        </div>
+{{--        <div class="wire"></div>--}}
+
+    </div>
+    <div class="wrapper nav" >
+        <ul>
+            <li><a href="javascript:void(0);">首页</a></li>
+            <li><a href="javascript:void(0);" >公司注册</a></li>
+            <li><a href="javascript:void(0);">代理记账</a></li>
+            <li><a href="javascript:void(0);">工商服务</a></li>
+            <li><a href="javascript:void(0);">财税服务</a></li>
+            <li><a href="javascript:void(0);">公司变更</a></li>
+            <li><a href="javascript:void(0);">商标注册</a></li>
+
         </ul>
     </div>
-    <!--	<div class="hd"><ul></ul></div>
-      <span class="prev"></span>
-      <span class="next"></span>-->
+    <h1 style="font-size: 50px">免费佛山工商代理注册公司</h1>
+    <p style="margin-top:50px; font-size:40px; text-align:center">省心/省钱的全程服务</p>
+    <p style="margin-top:40px; font-size:30px; text-align:center">一站式服务体系  保证满足您的各种服务需求</p>
+    <p style="margin-top:114px; font-size:30px; text-align:center">免费佛山代办营业执照</p>
+    <p class="go_btn" style="margin-top:10px;">
+        <a href="javascript:void(0);" onclick="open_chat()"style="">点我立即咨询</a>
+    </p>
+    <p></p>
 
-    <!--banner_left-->
-    <div class="banner_left_box">
-
-        <h1 style="font-size: 80px">免费佛山工商代理注册公司</h1>
-        <p style="margin-top:50px; font-size:50px; text-align:center">省心/省钱的全程服务</p>
-        <p style="margin-top:40px; font-size:40px; text-align:center">一站式服务体系  保证满足您的各种服务需求</p>
-        <p style="margin-top:114px; font-size:40px; text-align:center">免费佛山代办营业执照</p>
-        <p class="go_btn" style="margin-top:10px;">
-            <a href="javascript:void(0);" onclick="open_chat()"style="">点我立即咨询</a>
-        </p>
-        <p></p>
-{{--        <div class="ctzc"><img title="佛山公司注册" alt="佛山公司注册" src="./foshan/ctgongsizhuce.png" ></div>--}}
 </div>
 
 <!--中部-->
@@ -419,24 +388,24 @@
 
 <div class="bott">
     <div class="bott-int wid">
-        <div class="zx-lft">
-            <img src="./foshan/logo2.png">
-        </div>
+{{--        <div class="zx-lft">--}}
+{{--            <img src="./foshan/logo2.png">--}}
+{{--        </div>--}}
         <div class="zx-midd">
-                        <ul>
-                            <li><a href="javascript:void(0);" onclick="open_chat()" >公司介绍</a></li>
-                            <li>丨</li>
-                            <li><a href="javascript:void(0);" onclick="open_chat()" >管理特色</a></li>
-                            <li>丨</li>
-                            <li><a href="javascript:void(0);" onclick="open_chat()" >服务承诺</a></li>
-                            <li>丨</li>
-                            <li><a href="javascript:void(0);" onclick="open_chat()" >文化坚持</a></li>
-                            <li>丨</li>
-                            <li><a href="javascript:void(0);" onclick="open_chat()" >服务城市</a></li>
-                            <li>丨</li>
-                            <li><a href="javascript:void(0);" onclick="open_chat()" >联系我们</a></li>
-                        </ul>
-            <p>Copyright &#169; &nbsp;<a href="http://www.beian.miit.gov.cn" >大好时光（佛山市）企业管理有限公司 粤ICP备18159108号</a> </p>
+{{--                        <ul>--}}
+{{--                            <li><a href="javascript:void(0);" onclick="open_chat()" >公司介绍</a></li>--}}
+{{--                            <li>丨</li>--}}
+{{--                            <li><a href="javascript:void(0);" onclick="open_chat()" >管理特色</a></li>--}}
+{{--                            <li>丨</li>--}}
+{{--                            <li><a href="javascript:void(0);" onclick="open_chat()" >服务承诺</a></li>--}}
+{{--                            <li>丨</li>--}}
+{{--                            <li><a href="javascript:void(0);" onclick="open_chat()" >文化坚持</a></li>--}}
+{{--                            <li>丨</li>--}}
+{{--                            <li><a href="javascript:void(0);" onclick="open_chat()" >服务城市</a></li>--}}
+{{--                            <li>丨</li>--}}
+{{--                            <li><a href="javascript:void(0);" onclick="open_chat()" >联系我们</a></li>--}}
+{{--                        </ul>--}}
+            <p style="margin-top: 50px;">Copyright &#169; &nbsp;<a href="http://www.beian.miit.gov.cn" >大好时光（佛山市）企业管理有限公司 粤ICP备18159108号</a> </p>
         </div>
 {{--        <div class="zx-rig">--}}
 {{--            <p>400-850-0074</p>--}}
