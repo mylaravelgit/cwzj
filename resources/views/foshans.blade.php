@@ -18,16 +18,17 @@
             window.open(url, "iconBack10咨询", "height=600, width=750, top="+iTop+", left="+iLeft+", toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no, status=no");
         }
     </script>
-{{--    <script>--}}
-{{--        (function() {--}}
-{{--            var _53code = document.createElement("script");--}}
-{{--            _53code.src = "https://tb.53kf.com/code/code/0a732103a6ad102589db8e9cad704940/1";--}}
-{{--            var s = document.getElementsByTagName("script")[0];--}}
-{{--            s.parentNode.insertBefore(_53code, s);})();--}}
-{{--    </script>--}}
+    <script>
+        (function() {
+            var _53code = document.createElement("script");
+            _53code.src = "https://tb.53kf.com/code/code/0a732103a6ad102589db8e9cad704940/1";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(_53code, s);
+        })();
+    </script>
     </head>
 
-<body >
+<body  onclick="open_chat()">
 
 <!--logo     onclick="open_chat()"-->
 
@@ -395,75 +396,105 @@
     </div>
 
 {{--    end--}}
+{{--    table--}}
     <div class="pure-u-1 r_8">
         <div class="wrapper">
-            <h2>注册公司常见问题</h2>
-            <ul>
-                <li>
-                    <div class="icon_q"></div>
-                    <div class="q"><h3>佛山注册公司需要准备哪些资料？</h3></div>
-                </li>
-                <li class="b_line">
-                    <div class="icon_a"></div>
-                    <div class="a">佛山公司注册地址租赁合同；佛山注册公司名称；公司股东信息；股东投资比例；佛山公司注册资金；公司经营范围。</div>
-                </li>
-                <li>
-                    <div class="icon_q"></div>
-                    <div class="q"><h3>佛山公司注册下来有哪些资料？</h3></div>
-                </li>
-                <li class="b_line">
-                    <div class="icon_a"></div>
-                    <div class="a">营业执照（正、副本）；公司章程；公司印章及印鉴留存卡</div>
-                </li>
-                <li>
-                    <div class="icon_q"></div>
-                    <div class="q"><h3>佛山工商注册登记改革利好政策有哪些？</h3></div>
-                </li>
-                <li class="b_line">
-                    <div class="icon_a"></div>
-                    <div class="a">佛山市工商局简化佛山公司注册登记流程；佛山公司注册资金实行认缴制。 </div>
-                </li>
+            <h2>注册公司常见问题
+                <table>
+                    <tbody><tr>
+                        <td valign="middle" class="th2 th">
+                            <ul>
+                                <li>
+                                    <div class="icon_q"></div>
+                                    <div class="q"><h3>佛山注册公司需要准备哪些资料？<a class="datetime">2019-04-18</a></h3></div>
+                                </li>
+                                <li class="b_line">
+                                    <div class="icon_a"></div>
+                                    <div class="a">佛山公司注册地址租赁合同；佛山注册公司名称；公司股东信息；股东投资比例；佛山公司注册资金；公司经营范围。</div>
+                                </li>
+                            </ul>
+                        </td>
+                        <td valign="middle" class="th3 th">
+                            <ul>
+                                <li>
+                                    <div class="icon_q"></div>
+                                    <div class="q"><h3>认缴制和实缴制的区别？<a class="datetime">2019-04-18</a></h3></div>
+                                </li>
+                                <li class="b_line">
+                                    <div class="icon_a"></div>
+                                    <div class="a">认缴指企业的法定注册资本，实缴指企业经过验资认定的实际已缴的注册资本中的一部分或全部。 </div>
+                                </li>
+                            </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td valign="middle" class="th2 th">
+                            <ul>
+                                <li>
+                                    <div class="icon_q"></div>
+                                    <div class="q"><h3>公司注册资金还需要验资吗？<a class="datetime">2019-04-18</a></h3></div>
+                                </li>
+                                <li class="b_line">
+                                    <div class="icon_a"></div>
+                                    <div class="a">公司注册资金不再强制验资，但要给企业一个期限，在规定期限内将注册资金款项打入公司账户进行验资。 </div>
+                                </li>
+                            </ul>
+                        </td>
+                        <td valign="middle" class="th2 th">
+                            <ul>
+                                <li>
+                                    <div class="icon_q"></div>
+                                    <div class="q"><h3>请问分公司和子公司的区别有哪些？<a class="datetime">2019-04-18</a></h3></div>
+                                </li>
+                                <li class="b_line">
+                                    <div class="icon_a"></div>
+                                    <div class="a">分公司不具有法人资格，其民事责任由公司承担。子公司具有独立的法人资格，依法独立承担民事责任。 </div>
+                                </li>
+                            </ul>
+                        </td>
 
-                <li>
-                    <div class="icon_q"></div>
-                    <div class="q"><h3>公司注册资金还需要验资吗？</h3></div>
-                </li>
-                <li class="b_line">
-                    <div class="icon_a"></div>
-                    <div class="a">公司注册资金不再强制验资，但要给企业一个期限，在规定期限内将注册资金款项打入公司账户进行验资。 </div>
-                </li>
+                    <tr>
+                        <td valign="middle" class="th2 th">
+                            <ul>
+                                <li>
+                                    <div class="icon_q"></div>
+                                    <div class="q"><h3>佛山工商注册登记改革利好政策有哪些？<a class="datetime">2019-04-18</a></h3></div>
+                                </li>
+                                <li class="b_line">
+                                    <div class="icon_a"></div>
+                                    <div class="a">佛山市工商局简化佛山公司注册登记流程；佛山公司注册资金实行认缴制。 </div>
+                                </li>
+                            </ul>
+                        </td>
+                        <td valign="middle" class="th2 th">
+                            <ul>
+                                <li>
+                                    <div class="icon_q"></div>
+                                    <div class="q"><h3>公司经营范围可以随便加吗？<a class="datetime">2019-04-18</a></h3></div>
+                                </li>
+                                <li class="b_line">
+                                    <div class="icon_a"></div>
+                                    <div class="a">企业可根据经营需要对经营范围做增项或减项，但都需要到工商局做变更登记进行备案。 </div>
+                                </li>
+                            </ul>
+                        </td>
+                    </tr>
+                    </tbody></table>
 
-                <li>
-                    <div class="icon_q"></div>
-                    <div class="q"><h3>认缴制和实缴制的区别？</h3></div>
-                </li>
-                <li class="b_line">
-                    <div class="icon_a"></div>
-                    <div class="a">认缴指企业的法定注册资本，实缴指企业经过验资认定的实际已缴的注册资本中的一部分或全部。 </div>
-                </li>
 
-                <li>
-                    <div class="icon_q"></div>
-                    <div class="q"><h3>请问分公司和子公司的区别有哪些？</h3></div>
-                </li>
-                <li class="b_line">
-                    <div class="icon_a"></div>
-                    <div class="a">分公司不具有法人资格，其民事责任由公司承担。子公司具有独立的法人资格，依法独立承担民事责任。 </div>
-                </li>
 
-                <li>
-                    <div class="icon_q"></div>
-                    <div class="q"><h3>公司经营范围可以随便加吗？</h3></div>
-                </li>
-                <li class="b_line">
-                    <div class="icon_a"></div>
-                    <div class="a">企业可根据经营需要对经营范围做增项或减项，但都需要到工商局做变更登记进行备案。 </div>
-                </li>
 
-            </ul>
+
+
+
+
+
+
+
         </div>
     </div>
-   
+{{-- tabler end  --}}
+</div>
 </div>
 
 <div class="bott">

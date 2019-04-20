@@ -1949,7 +1949,7 @@ body {
 .r_8 ul li .icon_q{float:left; margin:0px 0px 0px 72px;background:url(../foshan/q_icon.png) no-repeat; width: 19px;height: 19px;}
 .r_8 ul li .icon_a{float:left; margin:0px 0px 0px 72px;background:url(../foshan/a_icon.png) no-repeat; width: 19px;height: 19px;}
 .r_8 ul li .q{float:left; margin:0px 0px 0px 10px;font-size:18px;}
-.r_8 ul li .a{float:left; margin:2px 0px 0px 10px; font-size:14px;}
+.r_8 ul li .a{ margin:2px 0px 0px 10px; font-size:14px;}
 .r_8 ul li .datetime{float:right; margin:3px 24px 0px 0px; font-family:'Microsoft YaHei'; font-size:12px; color:#6f6f6f;}
 
 
@@ -3798,6 +3798,7 @@ body {
 #header {
 	color: #fe8431;
 	overflow: hidden;
+ border-bottom: 1px dotted #ffffff; padding:18px 0px 0px 0px
 }
 #header .header_top{height: 119px;}
 #header .header_top ul li{float: left;}	
@@ -3931,16 +3932,32 @@ body {
 	font-weight: normal;
 }
 
-.r_8 ul{margin-top:46px}
+.r_8 ul{margin-top:5px}
 .r_8 ul li{ text-align:left; clear:both; height:20px; padding:30px 0px 0px 0px}
 .r_8 ul li.b_line{ border-bottom:1px dotted #cfcfcf; padding:18px 0px 30px 0px}
-.r_8 ul li .icon_q{float:left; margin:0px 0px 0px 72px;background:url(../foshan/q_icon.png) no-repeat; width: 19px;height: 19px;}
-.r_8 ul li .icon_a{float:left; margin:0px 0px 0px 72px;background:url(../foshan/a_icon.png) no-repeat; width: 19px;height: 19px;}
-.r_8 ul li .q{float:left; margin:0px 0px 0px 10px;font-size:18px;}
-.r_8 ul li .a{float:left; margin:2px 0px 0px 10px; font-size:14px;}
-.r_8 ul li .datetime{float:right; margin:3px 24px 0px 0px; font-family:'Microsoft YaHei'; font-size:12px; color:#6f6f6f;}
+.r_8 ul li .icon_q{float:left; margin:0px 0px 0px 10px;background:url(../foshan/q_icon.png) no-repeat; width: 19px;height: 19px;}
+.r_8 ul li .icon_a{float:left; margin:0px 0px 0px 10px;background:url(../foshan/a_icon.png) no-repeat; width: 19px;height: 19px;}
+.r_8 ul li .q{ margin:0px 0px 0px 10px;font-size:18px;}
+.r_8 ul li .a{ margin:2px 0px 0px 10px; font-size:15px;}
+.r_8 ul li .datetime{float:right; margin:3px 24px 0px 80px; font-family:'Microsoft YaHei'; font-size:14px; color:#6f6f6f;}
+
+/*table样式*/
+.r_8 table { border-collapse:collapse; width:1110px;  margin: 20px auto; }
+.r_8 table td{}
+.r_8 table tr td, th{border:1px solid #5e91e0;}
+.r_8 table tr{height:70px;}
+.r_8 table td.th1{width:150px;}
+.r_8 table td.th2{width:470px;}
+.r_8 table td.th3{width:470px;}
+.r_8 table td.th{font-size:23px}
+.r_8 table td.td1{font-size:18px; font-weight:bold; font-family:'Microsoft YaHei' ; text-align: left;}
+.r_8 table td.td2{font-size:20px; text-align:left; padding-left:86px}
+.r_8 table tbody tr td.table_title { font-size: 18px; line-height: 38px; width: 150px; text-align: left; }
+.r_8 table tbody tr td.table_contant { font-size: 14px; text-align: left; vertical-align:top; line-height:32px;}
+.r_8 h2{margin-top:60px; font-size:36px;font-weight: normal;}
 
 
+/*end*/
 .r_9{width: 100%;height: 600px;
 	text-align: right;
 	background-image: url(../foshan/back2.jpg);
