@@ -2,7 +2,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=GBK">
 
-    <title>大好时光（佛山市）财税咨询有限公司,佛山公司注册,佛山代理注册公司</title>
+    <title>大好时光</title>
     <meta name="keywords" content="佛山公司注册,佛山注册公司,佛山工商注册">
     <meta name="description" content="佛山代理注册公司需要多少钱，如何注册佛山公司？0元代办佛山公司注册，免佛山工商注册代理费、佛山工商注册公司工本费，提供佛山公司注册地址，大好时光免费代办佛山注册公司。">
     <link rel="stylesheet" type="text/css" href="./foshans/zc.css">
