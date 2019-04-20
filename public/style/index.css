@@ -518,6 +518,7 @@ ul.lence-list.w1180 {}
 	min-width: 1180px;
 	position: relative;
 	overflow: hidden;
+	border-bottom: 1px dotted #000000;
 }
 .ter-box.box-bg{
 	background:#f1f2f3;
