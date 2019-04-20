@@ -276,7 +276,7 @@
                 <tr>
                     <th width="120">项目</th>
                     <th width="274">名称</th>
-                    <th width="400">大好时光（佛山市）企业管理有限公司</th>
+                    <th width="400">大好时光</th>
                     <th width="400">其他佛山代理注册公司</th>
                 </tr>
                 <tr>
