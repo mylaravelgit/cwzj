@@ -65,7 +65,7 @@
     <h1 style="font-size: 50px">免费佛山工商代理注册公司</h1>
     <p style="margin-top:50px; font-size:40px; text-align:center">省心/省钱的全程服务</p>
     <h1 style="font-size: 50px">提供佛山公司注册地址</h1>
-    <p style="margin-top:30px; font-size:30px; text-align:center">免费佛山代办营业执照</p>
+    <p style="margin-top:30px; font-size:30px; text-align:center">免费代办公司注册</p>
     <p class="go_btn" style="margin-top:20px;">
         <a href="javascript:void(0);" onclick="open_chat()"style="">点我立即咨询</a>
     </p>
