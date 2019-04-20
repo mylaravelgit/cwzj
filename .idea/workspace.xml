@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8515433-bd60-4720-beaf-f81e252861db" name="Default Changelist" comment="" />
+    <list default="true" id="b8515433-bd60-4720-beaf-f81e252861db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/resources/views/foshans.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/foshans.blade.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +36,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/foshans.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="45" selection-start-line="45" selection-end-line="46" />
+            <state relative-caret-position="76">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/style/top_gg.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -146,8 +153,8 @@
         <option value="$PROJECT_DIR$/../Desktop/网页/顶呱呱工商注册.html" />
         <option value="$PROJECT_DIR$/public/foshan/zc.css" />
         <option value="$PROJECT_DIR$/public/style/index.css" />
-        <option value="$PROJECT_DIR$/resources/views/foshans.blade.php" />
         <option value="$PROJECT_DIR$/public/foshans/zc.css" />
+        <option value="$PROJECT_DIR$/resources/views/foshans.blade.php" />
       </list>
     </option>
   </component>
@@ -280,6 +287,13 @@
             <path>
               <item name="dahaosg" type="b2602c69:ProjectViewProjectNode" />
               <item name="dahaosg" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="style" type="462c0819:PsiDirectoryNode" />
+              <item name="layer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dahaosg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dahaosg" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -369,12 +383,12 @@
       <workItem from="1555722248696" duration="9967000" />
       <workItem from="1555742179577" duration="1574000" />
       <workItem from="1555749604140" duration="3422000" />
-      <workItem from="1555756344559" duration="746000" />
+      <workItem from="1555756344559" duration="1351000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85800000" />
+    <option name="totallyTimeSpent" value="86405000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
@@ -442,16 +456,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Desktop/index.html" />
-    <entry file="file://$PROJECT_DIR$/public/js/jquery-1.10.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-546" />
@@ -756,10 +760,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/style/top_gg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style/top_gg2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/foshans.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="45" selection-start-line="45" selection-end-line="46" />
+        <state relative-caret-position="76">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
