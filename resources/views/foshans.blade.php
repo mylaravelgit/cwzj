@@ -13,7 +13,7 @@
     <script type="text/javascript">
         function init(){
             var hostname=window.location.hostname;
-            if(hostname=='163.dahaosg.com'){
+            if(hostname!='163.dahaosg.com'){
             document.getElementById('hostname').innerHTML='';}
 
         }</script>
