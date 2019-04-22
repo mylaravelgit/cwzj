@@ -43,18 +43,18 @@
 {{--        <div class="wire"></div>--}}
 
     </div>
-    <div class="wrapper nav" >
-        <ul>
-            <li><a href="javascript:void(0);" onclick="open_chat()">首页</a></li>
-            <li><a href="javascript:void(0);" onclick="open_chat()">公司注册</a></li>
-            <li><a href="javascript:void(0);" onclick="open_chat()">代理记账</a></li>
-            <li><a href="javascript:void(0);" onclick="open_chat()">工商服务</a></li>
-            <li><a href="javascript:void(0);" onclick="open_chat()">财税服务</a></li>
-            <li><a href="javascript:void(0);" onclick="open_chat()">公司变更</a></li>
-            <li><a href="javascript:void(0);" onclick="open_chat()">商标注册</a></li>
+{{--    <div class="wrapper nav" >--}}
+{{--        <ul>--}}
+{{--            <li><a href="javascript:void(0);" onclick="open_chat()">首页</a></li>--}}
+{{--            <li><a href="javascript:void(0);" onclick="open_chat()">公司注册</a></li>--}}
+{{--            <li><a href="javascript:void(0);" onclick="open_chat()">代理记账</a></li>--}}
+{{--            <li><a href="javascript:void(0);" onclick="open_chat()">工商服务</a></li>--}}
+{{--            <li><a href="javascript:void(0);" onclick="open_chat()">财税服务</a></li>--}}
+{{--            <li><a href="javascript:void(0);" onclick="open_chat()">公司变更</a></li>--}}
+{{--            <li><a href="javascript:void(0);" onclick="open_chat()">商标注册</a></li>--}}
 
-        </ul>
-    </div>
+{{--        </ul>--}}
+{{--    </div>--}}
     <h1 style="font-size: 50px">免费代办佛山公司注册</h1>
     <p style="margin-top:50px; font-size:40px; text-align:center">省心/省钱的全程服务</p>
     <h1 style="font-size: 50px">提供佛山公司注册地址</h1>
