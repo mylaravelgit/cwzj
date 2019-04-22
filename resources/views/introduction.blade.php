@@ -59,8 +59,7 @@
 
 <!-- 底部版权开始 -->
 <div class="footer" collection="Y">
-    <div class="bottomleft">
-    </div>
+    
     <div class="bottomright">
         <br><span class="fEn"><a href="http://www.beian.miit.gov.cn" >大好时光（佛山市）企业管理有限公司 粤ICP备18159108号</a><a> 佛山市禅城区雾岗路河南工业区91号三楼317 联系方式： 13825566194 </a></p></span>
         <br><span class="fEn">Copyright<span class="bottombq">&#169;</span>&nbsp;wwww.dahaosg.com&nbsp;All&nbsp;Rights&nbsp;Reserved<br>
