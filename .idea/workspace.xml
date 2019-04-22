@@ -40,8 +40,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/foshans.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="521" column="144" selection-start-line="521" selection-start-column="144" selection-end-line="521" selection-end-column="144" />
+            <state relative-caret-position="114">
+              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+              <folding>
+                <element signature="n#style#0;n#h1#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Desktop/网页/财务之家-开公司_公司注册_注册公司.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="373" lean-forward="true" selection-start-line="373" selection-end-line="376" selection-end-column="1" />
+            <state relative-caret-position="209">
+              <caret line="377" column="9" lean-forward="true" selection-start-line="377" selection-start-column="9" selection-end-line="377" selection-end-column="9" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -71,9 +75,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>logo</find>
-      <find>logo.</find>
-      <find>自己办理</find>
       <find>.top</find>
       <find>备181591</find>
       <find>政府规定的费用，免佛山工商代理注册</find>
@@ -100,7 +101,10 @@
       <find>400-000-1718</find>
       <find>wapinvitebg.jpg</find>
       <find>ddt.zoosnet.ne</find>
+      <find>nav</find>
+      <find>wrapper</find>
       <find>openZoosUrl</find>
+      <find>hostname</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -248,9 +252,9 @@
       <path value="$PROJECT_DIR$/vendor/mobiledetect/mobiledetectlib" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="276" />
-    <option name="y" value="261" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="249" />
+    <option name="y" value="127" />
     <option name="width" value="1020" />
     <option name="height" value="546" />
   </component>
@@ -374,15 +378,15 @@
       <workItem from="1555742179577" duration="1574000" />
       <workItem from="1555749604140" duration="3422000" />
       <workItem from="1555756344559" duration="2084000" />
-      <workItem from="1555895134966" duration="6159000" />
+      <workItem from="1555895134966" duration="9590000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93297000" />
+    <option name="totallyTimeSpent" value="96728000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="249" y="127" width="1020" height="546" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.22340426" />
@@ -771,8 +775,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Desktop/网页/财务之家-开公司_公司注册_注册公司.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="373" lean-forward="true" selection-start-line="373" selection-end-line="376" selection-end-column="1" />
+        <state relative-caret-position="209">
+          <caret line="377" column="9" lean-forward="true" selection-start-line="377" selection-start-column="9" selection-end-line="377" selection-end-column="9" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -781,8 +785,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/foshans.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="521" column="144" selection-start-line="521" selection-start-column="144" selection-end-line="521" selection-end-column="144" />
+        <state relative-caret-position="114">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#h1#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

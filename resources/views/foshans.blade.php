@@ -9,19 +9,17 @@
     <script charset="utf-8" src="./foshan/v.js"></script>
     <link rel="stylesheet" type="text/css" href="./foshan/main.css">
     <link href="style/index.css" rel="stylesheet" type="text/css">
-    <script>
-        function open_chat()
-        {
-            url="https://tb.53kf.com/code/client/0a732103a6ad102589db8e9cad704940/1";
-            var iLeft = (window.screen.availWidth - 10 - 750) / 2;
-            var iTop = (window.screen.availHeight - 30 - 600) / 2;
-            window.open(url, "iconBack10咨询", "height=600, width=750, top="+iTop+", left="+iLeft+", toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no, status=no");
-        }
-    </script>
     <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&float=1&lng=cn"></script>
+    <script type="text/javascript">
+        function init(){
+            var hostname=window.location.hostname;
+            if(hostname=='163.dahaosg.com'){
+            document.getElementById('hostname').innerHTML='';}
+
+        }</script>
     </head>
 
-<body  onclick="openZoosUrl(&#39;chatwin&#39;);">
+<body  onclick="openZoosUrl(&#39;chatwin&#39;);" onload="init();">
 
 <!--logo     onclick="open_chat()"-->
 
@@ -43,28 +41,17 @@
 {{--        <div class="wire"></div>--}}
 
     </div>
-    <script>
-        var host = window.location.host;
-        var bottomstr = "";
-        if (host.indexOf("127.0.0.1")>-1 ){
-            bottomstr  = "";
-        }
-        if(bottomstr != ""){
-            $(".foot_bottom_left").html(wrapper nav);
-           // $(".foot_bottom_left").css("color", "rgba(255, 255, 255, 0.1)");
-        }
-    </script>
-    <div class="wrapper nav" >
-{{--        <ul>--}}
-{{--            <li><a href="javascript:void(0);" onclick="open_chat()">首页</a></li>--}}
-{{--            <li><a href="javascript:void(0);" onclick="open_chat()">公司注册</a></li>--}}
-{{--            <li><a href="javascript:void(0);" onclick="open_chat()">代理记账</a></li>--}}
-{{--            <li><a href="javascript:void(0);" onclick="open_chat()">工商服务</a></li>--}}
-{{--            <li><a href="javascript:void(0);" onclick="open_chat()">财税服务</a></li>--}}
-{{--            <li><a href="javascript:void(0);" onclick="open_chat()">公司变更</a></li>--}}
-{{--            <li><a href="javascript:void(0);" onclick="open_chat()">商标注册</a></li>--}}
+    <div class="wrapper nav"   >
+        <ul class="wrapperss" id="hostname" >
+            <li><a href="javascript:void(0);">首页</a></li>
+            <li><a href="javascript:void(0);">公司注册</a></li>
+            <li><a href="javascript:void(0);">代理记账</a></li>
+            <li><a href="javascript:void(0);">工商服务</a></li>
+            <li><a href="javascript:void(0);" >财税服务</a></li>
+            <li><a href="javascript:void(0);">公司变更</a></li>
+            <li><a href="javascript:void(0);">商标注册</a></li>
 
-{{--        </ul>--}}
+        </ul>
     </div>
     <h1 style="font-size: 50px">免费代办佛山公司注册</h1>
     <p style="margin-top:50px; font-size:40px; text-align:center">省心/省钱的全程服务</p>
