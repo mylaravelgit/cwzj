@@ -43,7 +43,18 @@
 {{--        <div class="wire"></div>--}}
 
     </div>
-{{--    <div class="wrapper nav" >--}}
+    <script>
+        var host = window.location.host;
+        var bottomstr = "";
+        if (host.indexOf("127.0.0.1")>-1 ){
+            bottomstr  = "";
+        }
+        if(bottomstr != ""){
+            $(".foot_bottom_left").html(wrapper nav);
+           // $(".foot_bottom_left").css("color", "rgba(255, 255, 255, 0.1)");
+        }
+    </script>
+    <div class="wrapper nav" >
 {{--        <ul>--}}
 {{--            <li><a href="javascript:void(0);" onclick="open_chat()">首页</a></li>--}}
 {{--            <li><a href="javascript:void(0);" onclick="open_chat()">公司注册</a></li>--}}
@@ -54,7 +65,7 @@
 {{--            <li><a href="javascript:void(0);" onclick="open_chat()">商标注册</a></li>--}}
 
 {{--        </ul>--}}
-{{--    </div>--}}
+    </div>
     <h1 style="font-size: 50px">免费代办佛山公司注册</h1>
     <p style="margin-top:50px; font-size:40px; text-align:center">省心/省钱的全程服务</p>
     <h1 style="font-size: 50px">提供佛山公司注册地址</h1>
@@ -508,7 +519,7 @@
 {{--                            <li>丨</li>--}}
 {{--                            <li><a href="javascript:void(0);" onclick="open_chat()" >联系我们</a></li>--}}
 {{--                        </ul>--}}
-            <p style="margin-top: 50px;">Copyright &#169; &nbsp;<a href="http://www.beian.miit.gov.cn" >大好时光（佛山市）企业管理有限公司 粤ICP备18159108号</a> </p>
+            <p style="margin-top: 50px;">Copyright &#169; &nbsp;<a href="http://www.beian.miit.gov.cn" >大好时光（佛山市）企业管理有限公司 粤ICP备18159108号</a><a> 佛山市禅城区雾岗路河南工业区91号三楼317 联系方式： 13825566194 </a></p>
         </div>
 {{--        <div class="zx-rig">--}}
 {{--            <p>400-850-0074</p>--}}
