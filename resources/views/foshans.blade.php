@@ -21,12 +21,12 @@
 {{--    <script type="text/javascript" charset="utf-8" src="./cwzj/JS_Float.aspx"></script><script type="text/javascript" charset="utf-8" src="./cwzj/CdCheck.aspx"></script>--}}
     </head>
 
-<body  onclick="openZoosUrl(&#39;chatwin&#39;);"onload="init();" >
+<body  onload="init();" >
 
-<!--logo     onload="init();"  onclick="open_chat()"-->
+<!--logo onclick="openZoosUrl(&#39;chatwin&#39;);"    onload="init();"  onclick="open_chat()"-->
 
 <!--banner-->
-<div class="top">
+<div class="top" onclick="openZoosUrl(&#39;chatwin&#39;);">
 
     <div id="header">
 {{--        <div class="wrapper header_top">--}}
@@ -45,7 +45,7 @@
     </div>
     <div class="wrapper nav"   >
         <ul class="wrapperss" id="hostname" >
-            <li><a href="javascript:void(0);">首页</a></li>
+            <li><a href="javascript:void(0);" >首页</a></li>
             <li><a href="javascript:void(0);">公司注册</a></li>
             <li><a href="javascript:void(0);">代理记账</a></li>
             <li><a href="javascript:void(0);">工商服务</a></li>
@@ -67,7 +67,7 @@
 </div>
 
 <!--中部-->
-<div class="pure-g">
+<div class="pure-g" onclick="openZoosUrl(&#39;chatwin&#39;);">
     <div class="pure-u-1 r_1">
         <div class="wrapper">
             <h2>佛山公司注册仅需三大步骤</h2>
@@ -389,7 +389,7 @@
 
 {{--    end--}}
 {{--    table--}}
-    <div class="pure-u-1 r_8">
+    <div class="pure-u-1 r_8" onclick="openZoosUrl(&#39;chatwin&#39;);">
         <div class="wrapper">
             <h2>注册公司常见问题
                 <table>
@@ -489,7 +489,7 @@
 </div>
 </div>
 
-<div class="bott">
+<div class="bott" >
     <div class="bott-int wid">
 {{--        <div class="zx-lft">--}}
 {{--            <img src="./foshan/logo2.png">--}}
