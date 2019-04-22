@@ -1,0 +1,1 @@
+LR_inviteimgJS=1;checkcount=2;LR_sidexists=0;var LR_IPTK='7K6BZ-VICKO-SBKWS-SIVMC-IJK5Z-YYFVT';LR_ip="113.72.16.255";var lr_iptemp=LR_getCookie('IP');if(lr_iptemp==null)lr_iptemp='|';if(lr_iptemp.indexOf('|'+LR_ip+'|')==-1)LR_SetCookie('IP', lr_iptemp+LR_ip+'|', 2628000);LR_ip1="%u5e7f%u4e1c%u7701%u4f5b%u5c71%u5e02";LR_ip2="";
