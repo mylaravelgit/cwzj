@@ -14,6 +14,13 @@
 Route::get('/', function () {
     return view('foshans');
 });
+Route::get('/welcome', function () {
+    return view('welcome');
+});
+Route::get('/in', function () {
+    return view('introduction');
+});
+
 /*Route::get('/brand', function () {
     return view('brand');
 });

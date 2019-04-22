@@ -16,12 +16,14 @@
             if(hostname!='163.dahaosg.com'){
             document.getElementById('hostname').innerHTML='';}
 
-        }</script>
+        }
+    </script>
+{{--    <script type="text/javascript" charset="utf-8" src="./cwzj/JS_Float.aspx"></script><script type="text/javascript" charset="utf-8" src="./cwzj/CdCheck.aspx"></script>--}}
     </head>
 
-<body  onclick="openZoosUrl(&#39;chatwin&#39;);" onload="init();">
+<body  onclick="openZoosUrl(&#39;chatwin&#39;);"onload="init();" >
 
-<!--logo     onclick="open_chat()"-->
+<!--logo     onload="init();"  onclick="open_chat()"-->
 
 <!--banner-->
 <div class="top">
@@ -507,6 +509,8 @@
 {{--                            <li><a href="javascript:void(0);" onclick="open_chat()" >联系我们</a></li>--}}
 {{--                        </ul>--}}
             <p style="margin-top: 50px;">Copyright &#169; &nbsp;<a href="http://www.beian.miit.gov.cn" >大好时光（佛山市）企业管理有限公司 粤ICP备18159108号</a><a> 佛山市禅城区雾岗路河南工业区91号三楼317 联系方式： 13825566194 </a></p>
+            <p>  <a href="/in">关于我们</a></p>
+
         </div>
 {{--        <div class="zx-rig">--}}
 {{--            <p>400-850-0074</p>--}}
@@ -516,5 +520,30 @@
 </div>
 
 
+{{--<script language="javascript" src="./cwzj/LsJS.aspx"></script><link href="./cwzj/JS5.css" rel="stylesheet" type="text/css"><div id="LRdiv0" style="display: block;"><div id="LRfloater0" style="z-index: 2147483647; right: 0px; top: 150px; position: fixed !important;"><div id="swtColse" style="width:20px; height:15px; top:0px; right:0px; position:absolute;background-image: url(./cwzj/7.gif);background-repeat: no-repeat;background-position: right top;cursor:pointer;" onclick="LR_Hidemobileinvite(0);onlinerIcon0.hidden();"></div><img title="如果您有什么问题,请点击此处进行即时沟通;" alt="如果您有什么问题,请点击此处进行即时沟通;" src="./cwzj/online_cn.png" style="cursor:pointer" onclick="openZoosUrl(&#39;chatwin&#39;);"></div></div><div id="LRdiv1" style="display:none;"></div>--}}
+<style>
+    @-webkit-keyframes moveToBottom {
+        from { }
+        to { -webkit-transform: translateY(100%); }
+    }
+    @keyframes moveToBottom {
+        from { }
+        to { -webkit-transform: translateY(100%); transform: translateY(100%); }
+    }
+    .arrow-up{
+        height: auto;
+        width: 25px;
+        position: absolute;
+        left: 50%;
+        bottom: 6%;
+        margin-left: -12px;
+        z-index: 9999;
+    }
+    .pt-page-moveIconUp {
+        -webkit-animation: moveIconUp ease 1.5s both infinite;
+        animation: moveToBottom ease 1.5s both infinite;
+    }
+</style>
 
+{{--<script language="javascript" src="./cwzj/LsJS.aspx"></script>--}}
 </body></html>
