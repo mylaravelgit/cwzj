@@ -2,50 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8515433-bd60-4720-beaf-f81e252861db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/cwzj/CdCheck.aspx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/ChatBW3JS.aspx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/Chat_cn.aspx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/JS5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/JS_Float.aspx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/LsJS.aspx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/a1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/avatar2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/centchat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/da.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/da1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/ewm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/footer_tel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/h_list.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/jiantou.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/jquery-2.1.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/later.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/logo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/lrchatBW33.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/minichat_PC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/online_cn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/row1_i1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/row1_i2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/row1_i3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/row2_i1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/row4_i1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/row5_i1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/row5_i2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/row6_i1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/row7_i1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/row8_i1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/row8_i2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/row8_i3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/row8_i4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/row9_i1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/swt_sj_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/wapinvitebg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/foshans.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/foshans.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="214" column="26" lean-forward="true" selection-start-line="214" selection-start-column="26" selection-end-line="214" selection-end-column="26" />
+            <state relative-caret-position="219">
+              <caret line="261" column="62" lean-forward="true" selection-start-line="261" selection-start-column="62" selection-end-line="261" selection-end-column="62" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -80,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/foshans.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            <state relative-caret-position="-2185">
+              <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -101,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Desktop/网页/财务之家-开公司_公司注册_注册公司.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            <state relative-caret-position="-7390">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -111,7 +69,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>400</find>
       <find>logo</find>
       <find>logo.</find>
       <find>自己办理</find>
@@ -140,6 +97,7 @@
       <find>collapse</find>
       <find>400-000-1718</find>
       <find>wapinvitebg.jpg</find>
+      <find>openZoosUrl</find>
       <find>ddt.zoosnet.ne</find>
     </findStrings>
     <replaceStrings>
@@ -196,6 +154,7 @@
         <option value="$PROJECT_DIR$/public/cwzj/index.css" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/../Desktop/网页/财务之家-开公司_公司注册_注册公司.html" />
         <option value="$PROJECT_DIR$/resources/views/foshans.blade.php" />
       </list>
     </option>
@@ -287,7 +246,7 @@
       <path value="$PROJECT_DIR$/vendor/mobiledetect/mobiledetectlib" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="276" />
     <option name="y" value="261" />
     <option name="width" value="1020" />
@@ -413,18 +372,18 @@
       <workItem from="1555742179577" duration="1574000" />
       <workItem from="1555749604140" duration="3422000" />
       <workItem from="1555756344559" duration="2084000" />
-      <workItem from="1555895134966" duration="2507000" />
+      <workItem from="1555895134966" duration="5043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89645000" />
+    <option name="totallyTimeSpent" value="92181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22340426" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22340426" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -444,27 +403,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22340426" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -783,28 +721,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Desktop/网页/财务之家-开公司_公司注册_注册公司.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/cwzj/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
           <caret line="512" column="34" lean-forward="true" selection-start-line="512" selection-start-column="28" selection-end-line="512" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="214" column="26" lean-forward="true" selection-start-line="214" selection-start-column="26" selection-end-line="214" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -815,10 +735,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/财务之家-开公司_公司注册_注册公司.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7390">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/foshans.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        <state relative-caret-position="-2185">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="261" column="62" lean-forward="true" selection-start-line="261" selection-start-column="62" selection-end-line="261" selection-end-column="62" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

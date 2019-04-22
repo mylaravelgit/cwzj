@@ -18,17 +18,10 @@
             window.open(url, "iconBack10咨询", "height=600, width=750, top="+iTop+", left="+iLeft+", toolbar=no, menubar=no, scrollbars=no, resizable=no,location=no, status=no");
         }
     </script>
-    <script>
-        (function() {
-            var _53code = document.createElement("script");
-            _53code.src = "https://tb.53kf.com/code/code/0a732103a6ad102589db8e9cad704940/1";
-            var s = document.getElementsByTagName("script")[0];
-            s.parentNode.insertBefore(_53code, s);
-        })();
-    </script>
+    <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&float=1&lng=cn"></script>
     </head>
 
-<body  onclick="open_chat()">
+<body  onclick="openZoosUrl(&#39;chatwin&#39;);">
 
 <!--logo     onclick="open_chat()"-->
 
