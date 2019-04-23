@@ -42,15 +42,14 @@
                 <li class="active"><a href="javascript:void(0);">栏目导航</a></li>
                 <li><a href="/">网站首页</a></li>
 
-                <li><a href="javascript:void(0);">公司注册</a></li>
+{{--                <li><a href="javascript:void(0);">公司注册</a></li>--}}
 
-                <li><a href="javascript:void(0);">代理记账</a></li>
+{{--                <li><a href="javascript:void(0);">代理记账</a></li>--}}
 
-                <li><a href="javascript:void(0);">工商服务</a></li>
+{{--                <li><a href="javascript:void(0);">工商服务</a></li>--}}
+{{--                --}}
 
-
-
-                <li><a href="javascript:void(0);">财税服务</a></li>
+{{--                <li><a href="javascript:void(0);">财税服务</a></li>--}}
 
                 <li><a href="/about">关于我们</a></li>
 
@@ -75,23 +74,23 @@
             <ul><li class="on">1</li></ul>
         </div>
     </div>
-    <div class="slider_main">
-        <div class="slider_list">
-            <ul>
-                <li>
-                    <p class="sub_1"><a href="javascript:void(0);">公司注册</a></p><a href="javascript:void(0);">
-                        <b></b><em>  <i>公司注册</i>  <i>公司变更</i>  <i>税务报道</i> </em></a></li><li>
-                    <p class="sub_2"><a href="javascript:void(0);">代理记账</a></p><a href="javascript:void(0);">
-                        <b></b><em>  <i>税务申报</i>  <i>财务咨询</i>  <i>小规模企业记账</i> </em></a></li><li>
-                    <p class="sub_3"><a href="javascript:void(0);">经营许可证</a></p><a href="javascript:void(0);">
-                        <b></b><em>  <i>食品经营许可证</i>  <i>进出口许可证</i>  <i>烟酒许可证</i> </em></a></li><li>
-                    <p class="sub_4"><a href="javascript:void(0);">资质代办</a></p><a href="javascript:void(0);">
-                        <b></b><em>  <i>施工总承包资质</i>  <i>专业承包资质</i>  <i>安全生产许可证</i> </em></a></li><li>
-                    <p class="sub_5"><a href="javascript:void(0);">财税知识</a></p><a href="javascript:void(0);">
-                        <b></b><em>  <i>行业资讯</i>  <i>公司注册</i>  <i>记账报税</i> </em></a></li>
-            </ul>
-        </div>
-    </div>
+{{--    <div class="slider_main">--}}
+{{--        <div class="slider_list">--}}
+{{--            <ul>--}}
+{{--                <li>--}}
+{{--                    <p class="sub_1"><a href="javascript:void(0);">公司注册</a></p><a href="javascript:void(0);">--}}
+{{--                        <b></b><em>  <i>公司注册</i>  <i>公司变更</i>  <i>税务报道</i> </em></a></li><li>--}}
+{{--                    <p class="sub_2"><a href="javascript:void(0);">代理记账</a></p><a href="javascript:void(0);">--}}
+{{--                        <b></b><em>  <i>税务申报</i>  <i>财务咨询</i>  <i>小规模企业记账</i> </em></a></li><li>--}}
+{{--                    <p class="sub_3"><a href="javascript:void(0);">经营许可证</a></p><a href="javascript:void(0);">--}}
+{{--                        <b></b><em>  <i>食品经营许可证</i>  <i>进出口许可证</i>  <i>烟酒许可证</i> </em></a></li><li>--}}
+{{--                    <p class="sub_4"><a href="javascript:void(0);">资质代办</a></p><a href="javascript:void(0);">--}}
+{{--                        <b></b><em>  <i>施工总承包资质</i>  <i>专业承包资质</i>  <i>安全生产许可证</i> </em></a></li><li>--}}
+{{--                    <p class="sub_5"><a href="javascript:void(0);">财税知识</a></p><a href="javascript:void(0);">--}}
+{{--                        <b></b><em>  <i>行业资讯</i>  <i>公司注册</i>  <i>记账报税</i> </em></a></li>--}}
+{{--            </ul>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 </div>
 <!--开始-->
 @yield('content')
@@ -99,91 +98,91 @@
 <!-- 网站底部 -->
 <div class="clear blank30"></div>
 <div class="dibu hui"><img src="../aboutme/dibu.png"></div>
-<div class="footer">
-    <div class="main content">
+{{--<div class="footer">--}}
+{{--    <div class="main content">--}}
 
-        <!---->
+{{--        <!---->--}}
 
-        <div class="ewm">
-            <div class="ma"> <span class="tits" style="background:#fff;">微信二维码</span>
-                <div class="imgss"> <img src="../aboutme/erweima.png" width="100" height="100"> </div>
-                <span class="tits">扫一扫 关注我们</span> </div>
-            <div class="insay">
-                <span>联系人：黄经理</span><br>
-                <span>服务热线：</span>
-                <p style="margin-bottom: 0px;font-size: 25px;margin-bottom:10px;color:#fff;">15818096664</p>
+{{--        <div class="ewm">--}}
+{{--            <div class="ma"> <span class="tits" style="background:#fff;">微信二维码</span>--}}
+{{--                <div class="imgss"> <img src="../aboutme/erweima.png" width="100" height="100"> </div>--}}
+{{--                <span class="tits">扫一扫 关注我们</span> </div>--}}
+{{--            <div class="insay">--}}
+{{--                <span>联系人：黄经理</span><br>--}}
+{{--                <span>服务热线：</span>--}}
+{{--                <p style="margin-bottom: 0px;font-size: 25px;margin-bottom:10px;color:#fff;">15818096664</p>--}}
 
-                <span>联系地址：</span>
-                <p style="font-size: 12px;font-weight: normal;line-height:20px;">佛山市禅城区华远东路13号发展大厦23楼之二</p>
+{{--                <span>联系地址：</span>--}}
+{{--                <p style="font-size: 12px;font-weight: normal;line-height:20px;">佛山市禅城区华远东路13号发展大厦23楼之二</p>--}}
 
-                <!--<div class="select"> <span><a href="#">更多联系方式 >></a></span> </div>-->
+{{--                <!--<div class="select"> <span><a href="#">更多联系方式 >></a></span> </div>-->--}}
 
-            </div>
-        </div>
-        <dl class="dllist">
-            <dt><a href="javascript:void(0);">公司注册</a></dt>
+{{--            </div>--}}
+{{--        </div>--}}
+{{--        <dl class="dllist">--}}
+{{--            <dt><a href="javascript:void(0);">公司注册</a></dt>--}}
 
-            <dd><a href="javascript:void(0);">公司注册</a></dd>
+{{--            <dd><a href="javascript:void(0);">公司注册</a></dd>--}}
 
-            <dd><a href="javascript:void(0);">公司变更</a></dd>
+{{--            <dd><a href="javascript:void(0);">公司变更</a></dd>--}}
 
-            <dd><a href="javascript:void(0);">税务报道</a></dd>
+{{--            <dd><a href="javascript:void(0);">税务报道</a></dd>--}}
 
-        </dl><dl class="dllist">
-            <dt><a href="javascript:void(0);">代理记账</a></dt>
+{{--        </dl><dl class="dllist">--}}
+{{--            <dt><a href="javascript:void(0);">代理记账</a></dt>--}}
 
-            <dd><a href="javascript:void(0);">税务申报</a></dd>
+{{--            <dd><a href="javascript:void(0);">税务申报</a></dd>--}}
 
-            <dd><a href="javascript:void(0);">财务咨询</a></dd>
+{{--            <dd><a href="javascript:void(0);">财务咨询</a></dd>--}}
 
-            <dd><a href="javascript:void(0);">小规模企业记账</a></dd>
+{{--            <dd><a href="javascript:void(0);">小规模企业记账</a></dd>--}}
 
-            <dd><a href="javascript:void(0);">一般纳税人企业记账</a></dd>
+{{--            <dd><a href="javascript:void(0);">一般纳税人企业记账</a></dd>--}}
 
-        </dl><dl class="dllist">
-            <dt><a href="javascript:void(0);">经营许可证</a></dt>
+{{--        </dl><dl class="dllist">--}}
+{{--            <dt><a href="javascript:void(0);">经营许可证</a></dt>--}}
 
-            <dd><a href="javascript:void(0);">食品经营许可证</a></dd>
+{{--            <dd><a href="javascript:void(0);">食品经营许可证</a></dd>--}}
 
-            <dd><a href="javascript:void(0);">进出口许可证</a></dd>
+{{--            <dd><a href="javascript:void(0);">进出口许可证</a></dd>--}}
 
-            <dd><a href="javascript:void(0);">烟酒许可证</a></dd>
+{{--            <dd><a href="javascript:void(0);">烟酒许可证</a></dd>--}}
 
-            <dd><a href="javascript:void(0);">卫生许可证</a></dd>
+{{--            <dd><a href="javascript:void(0);">卫生许可证</a></dd>--}}
 
-            <dd><a href="javascript:void(0);">医疗器械许可证</a></dd>
+{{--            <dd><a href="javascript:void(0);">医疗器械许可证</a></dd>--}}
 
-        </dl><dl class="dllist">
-            <dt><a href="javascript:void(0);">资质代办</a></dt>
+{{--        </dl><dl class="dllist">--}}
+{{--            <dt><a href="javascript:void(0);">资质代办</a></dt>--}}
 
-            <dd><a href="javascript:void(0);">施工总承包资质</a></dd>
+{{--            <dd><a href="javascript:void(0);">施工总承包资质</a></dd>--}}
 
-            <dd><a href="javascript:void(0);">专业承包资质</a></dd>
+{{--            <dd><a href="javascript:void(0);">专业承包资质</a></dd>--}}
 
-            <dd><a href="javascript:void(0);">安全生产许可证</a></dd>
+{{--            <dd><a href="javascript:void(0);">安全生产许可证</a></dd>--}}
 
-            <dd><a href="javascript:void(0);">园林绿化资质</a></dd>
+{{--            <dd><a href="javascript:void(0);">园林绿化资质</a></dd>--}}
 
-            <dd><a href="javascript:void(0);">其他资质</a></dd>
+{{--            <dd><a href="javascript:void(0);">其他资质</a></dd>--}}
 
-        </dl><dl class="dllist">
-            <dt><a href="javascript:void(0);">财税知识</a></dt>
+{{--        </dl><dl class="dllist">--}}
+{{--            <dt><a href="javascript:void(0);">财税知识</a></dt>--}}
 
-            <dd><a href="javascript:void(0);">行业资讯</a></dd>
+{{--            <dd><a href="javascript:void(0);">行业资讯</a></dd>--}}
 
-            <dd><a href="javascript:void(0);">公司注册</a></dd>
+{{--            <dd><a href="javascript:void(0);">公司注册</a></dd>--}}
 
-            <dd><a href="javascript:void(0);">记账报税</a></dd>
+{{--            <dd><a href="javascript:void(0);">记账报税</a></dd>--}}
 
-            <dd><a href="javascript:void(0);">公司变更</a></dd>
+{{--            <dd><a href="javascript:void(0);">公司变更</a></dd>--}}
 
-            <dd><a href="javascript:void(0);">纳税筹划</a></dd>
+{{--            <dd><a href="javascript:void(0);">纳税筹划</a></dd>--}}
 
-            <dd><a href="javascript:void(0);">常见问题</a></dd>
+{{--            <dd><a href="javascript:void(0);">常见问题</a></dd>--}}
 
-        </dl>
-    </div>
-</div>
+{{--        </dl>--}}
+{{--    </div>--}}
+{{--</div>--}}
 <div class="foot">
     <div class="main fot"> <span style="float:right;"> </span> Copyright © 20019 <a href="http://www.beian.miit.gov.cn" >大好时光（佛山市）企业管理有限公司 粤ICP备18159108号</a><a> 佛山市禅城区雾岗路河南工业区91号三楼317 联系方式： 13825566194 </a> </div>
 </div>
