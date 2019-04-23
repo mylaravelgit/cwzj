@@ -13,11 +13,9 @@
           content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="apple-mobile-web-app-title" content="财务之家">
+    <meta name="apple-mobile-web-app-title" content="大好时光">
     <meta name="format-detection" content="telephone=no">
     <link rel="stylesheet" href="./cwzj/index.css">
-    <script type="text/javascript" charset="utf-8" src="./cwzj/JS_Float.aspx"></script>
-
 </head>
 <body>
 <div class="layout">
@@ -45,7 +43,7 @@
         </div>
         <div class="row1">
             <p class="title">
-                真正极简 快捷流程
+                佛山公司注册
             </p>
             <p class="sub_title">
                 综合化管理 只需三步 完成注册
@@ -110,7 +108,7 @@
         <div class="row6">
             <p class="title">
                 每<span class="b_c">1小时</span>就有一家公司<br>
-                在财务之家选择一站式注册服务
+                在大好时光选择一站式注册服务
             </p>
             <img src="./cwzj/row6_i1.png">
             <div class="con">
@@ -122,7 +120,7 @@
         </div>
         <div class="row7">
             <p class="title">
-                财务之家公司注册流程
+                大好时光公司注册流程
             </p>
             <p class="sub_title">
                 一站式服务 意在满足您的各项需求
@@ -196,7 +194,7 @@
                     <p>低于市场同类注册公司30%以上价格......</p>
                 </div>
                 <div>
-                    <p>注册公司市场非常混乱，没有一个标准，财务之家竖立行业标杆......</p>
+                    <p>注册公司市场非常混乱，没有一个标准，大好时光竖立行业标杆......</p>
                 </div>
                 <div>
                     <p>解决年轻人创业问题。我们不做跟风狗。只做高性价比的服务。哪怕市场再小......</p>
@@ -211,55 +209,16 @@
         <div class="footer_tel">
             <img src="./cwzj/footer_tel.png">
         </div>
-        <div class="last_ foot_bottom_left" style="color: rgba(255, 255, 255, 0.0980392);">Powered by 大好时光（佛山市）企业管理有限公司
-            粤ICP备18159108号
+        <div class="last_ foot_bottom_left" style="color: rgba(255, 255, 255, 0.0980392);">
+            <p><a> 佛山市禅城区雾岗路河南工业区91号三楼317 联系方式： 13825566194 </a></p>
+            <a href="http://www.beian.miit.gov.cn" >大好时光（佛山市）企业管理有限公司 粤ICP备18159108号</a>
+
         </div>
     </footer>
 </div>
 <script type="text/javascript" src="./cwzj/jquery-2.1.1.min.js"></script>
 
-
-
-
-<script language="javascript" src="./cwzj/LsJS.aspx"></script>
-<link href="./cwzj/JS5.css" rel="stylesheet" type="text/css">
-
 <div id="LRdiv1" style="display:none;"></div>
-<style>
-    @-webkit-keyframes moveToBottom {
-        from {
-        }
-        to {
-            -webkit-transform: translateY(100%);
-        }
-    }
-
-    @keyframes moveToBottom {
-        from {
-        }
-        to {
-            -webkit-transform: translateY(100%);
-            transform: translateY(100%);
-        }
-    }
-
-    .arrow-up {
-        height: auto;
-        width: 25px;
-        position: absolute;
-        left: 50%;
-        bottom: 6%;
-        margin-left: -12px;
-        z-index: 9999;
-    }
-
-    .pt-page-moveIconUp {
-        -webkit-animation: moveIconUp ease 1.5s both infinite;
-        animation: moveToBottom ease 1.5s both infinite;
-    }
-</style>
-
-<script language="javascript" src="./cwzj/LsJS.aspx"></script>
 <script>
     $(document).ready(function () {
         $("#toggle-btn").click(function () {

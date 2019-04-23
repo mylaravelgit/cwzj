@@ -9,15 +9,15 @@
     <script charset="utf-8" src="./foshan/v.js"></script>
     <link rel="stylesheet" type="text/css" href="./foshan/main.css">
     <link href="style/index.css" rel="stylesheet" type="text/css">
-    <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&float=1&lng=cn"></script>
-    <script type="text/javascript">
-        function init(){
-            var hostname=window.location.hostname;
-            if(hostname!='163.dahaosg.com'){
-            document.getElementById('hostname').innerHTML='';}
+{{--    <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&float=1&lng=cn"></script>--}}
+{{--    <script type="text/javascript">--}}
+{{--        function init(){--}}
+{{--            var hostname=window.location.hostname;--}}
+{{--            if(hostname!='163.dahaosg.com'){--}}
+{{--            document.getElementById('hostname').innerHTML='';}--}}
 
-        }
-    </script>
+{{--        }--}}
+{{--    </script>--}}
 {{--    <script type="text/javascript" charset="utf-8" src="./cwzj/JS_Float.aspx"></script><script type="text/javascript" charset="utf-8" src="./cwzj/CdCheck.aspx"></script>--}}
     </head>
 
@@ -26,7 +26,7 @@
 <!--logo onclick="openZoosUrl(&#39;chatwin&#39;);"    onload="init();"  onclick="open_chat()"-->
 
 <!--banner-->
-<div class="top" onclick="openZoosUrl(&#39;chatwin&#39;);">
+<div class="top" >
 
     <div id="header">
 {{--        <div class="wrapper header_top">--}}
@@ -50,8 +50,8 @@
             <li><a href="javascript:void(0);">代理记账</a></li>
             <li><a href="javascript:void(0);">工商服务</a></li>
             <li><a href="javascript:void(0);" >财税服务</a></li>
-            <li><a href="javascript:void(0);">公司变更</a></li>
-            <li><a href="javascript:void(0);">商标注册</a></li>
+            <li><a href="/about">关于我们</a></li>
+            <li><a href="/contact">联系我们</a></li>
 
         </ul>
     </div>
@@ -67,7 +67,7 @@
 </div>
 
 <!--中部-->
-<div class="pure-g" onclick="openZoosUrl(&#39;chatwin&#39;);">
+<div class="pure-g" >
     <div class="pure-u-1 r_1">
         <div class="wrapper">
             <h2>佛山公司注册仅需三大步骤</h2>

@@ -20,7 +20,16 @@ Route::get('/welcome', function () {
 Route::get('/in', function () {
     return view('introduction');
 });
+Route::get('/about', function () {
+    return view('/a/about');
+});
+Route::get('/contact', function () {
+    return view('a/contact');
+});
 
+Route::get('/ccc', function () {
+    return view('laojie/cancel');
+});
 /*Route::get('/brand', function () {
     return view('brand');
 });

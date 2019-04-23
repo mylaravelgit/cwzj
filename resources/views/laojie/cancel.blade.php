@@ -1,4 +1,4 @@
-@extends('app')
+@extends('laojie.app')
 @section('content')
 
     <div class="main">
