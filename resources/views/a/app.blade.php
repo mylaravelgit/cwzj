@@ -66,7 +66,7 @@
     <div class="fullSlide">
         <div class="bd">
             <ul style="position: relative; width: 1343px; height: 450px;">
-                <a href="http://sc.dedecms51.com/" target="_blank" style="position: absolute; width: 1343px; left: 0px; top: 0px;"><li style="background:url(./aboutme/1-1G0231T0520-L.jpg) no-repeat center top;"></li></a>
+                <a href="/"  style="position: absolute; width: 1343px; left: 0px; top: 0px;"><li style="background:url(./aboutme/1-1G0231T0520-L.jpg) no-repeat center top;"></li></a>
 
             </ul>
         </div>
