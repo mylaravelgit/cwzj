@@ -2,50 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8515433-bd60-4720-beaf-f81e252861db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/aboutme/1-1G0231G524T0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/1-1G0231T0520-L.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/1-1G0231T0520-R.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/286326.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/dibu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/erweima.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/hm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/home_header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/index2016.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/jquery.lazyload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/jquery.superslide.2.1.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/lightbox-2.6.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/lightbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/line.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/lrtk1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/mv.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/nav-list-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/pc_nb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/poll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/qq1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/aboutme/tel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cwzj/h_phone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/a/about.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/a/app.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/a/contact.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/cwzj/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/cwzj/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/agency.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/laojie/agency.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/laojie/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/brand.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/laojie/brand.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/cancel.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/laojie/cancel.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/change.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/laojie/change.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/company.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/laojie/company.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/a/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/a/app.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/foshans.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/foshans.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/introduction.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/introduction.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/power.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/laojie/power.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +19,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="238">
               <caret line="25" column="20" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="20" />
             </state>
           </provider>
@@ -84,17 +42,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/foshans.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="50" column="46" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="46" />
+            <state relative-caret-position="167">
+              <caret line="510" column="189" selection-start-line="510" selection-start-column="140" selection-end-line="510" selection-end-column="189" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/a/app.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="181" column="46" lean-forward="true" selection-start-line="181" selection-start-column="16" selection-end-line="181" selection-end-column="46" />
+            <state relative-caret-position="190">
+              <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#span#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -118,10 +76,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/a/about.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="186">
               <caret line="44" column="49" selection-start-line="44" selection-start-column="49" selection-end-line="44" selection-end-column="49" />
             </state>
           </provider>
@@ -159,8 +117,8 @@
       <find>.xzlnx</find>
       <find>.js</find>
       <find>速申请办理</find>
-      <find>1-1G0231T0520-L</find>
       <find>xzlnx</find>
+      <find>1-1G0231T0520-L</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -225,15 +183,15 @@
         <option value="$PROJECT_DIR$/../Desktop/网页/财务之家-开公司_公司注册_注册公司.html" />
         <option value="$PROJECT_DIR$/resources/views/introduction.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/foshans.blade.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/resources/views/laojie/cancel.blade.php" />
         <option value="$PROJECT_DIR$/public/aboutme/lightbox.css" />
         <option value="$PROJECT_DIR$/public/aboutme/home_header.css" />
-        <option value="$PROJECT_DIR$/resources/views/a/app.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/a/contact.php" />
         <option value="$PROJECT_DIR$/resources/views/a/contact.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/a/about.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/foshans.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/a/app.blade.php" />
       </list>
     </option>
   </component>
@@ -324,9 +282,9 @@
       <path value="$PROJECT_DIR$/vendor/mobiledetect/mobiledetectlib" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="199" />
-    <option name="y" value="109" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="51" />
+    <option name="y" value="268" />
     <option name="width" value="1020" />
     <option name="height" value="546" />
   </component>
@@ -462,18 +420,18 @@
       <workItem from="1555895134966" duration="11287000" />
       <workItem from="1555914198004" duration="9520000" />
       <workItem from="1555926161016" duration="262000" />
-      <workItem from="1556000238987" duration="4563000" />
+      <workItem from="1556000238987" duration="5264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112770000" />
+    <option name="totallyTimeSpent" value="113471000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="51" y="268" width="1020" height="546" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18541034" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -727,20 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/foshans.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="50" column="46" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/a/contact.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -753,10 +697,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/a/about.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="44" column="49" selection-start-line="44" selection-start-column="49" selection-end-line="44" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/foshans.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="510" column="189" selection-start-line="510" selection-start-column="140" selection-end-line="510" selection-end-column="189" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/a/app.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="181" column="46" lean-forward="true" selection-start-line="181" selection-start-column="16" selection-end-line="181" selection-end-column="46" />
+        <state relative-caret-position="190">
+          <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#span#0;n#span#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -767,13 +732,6 @@
             <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/a/about.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="44" column="49" selection-start-line="44" selection-start-column="49" selection-end-line="44" selection-end-column="49" />
         </state>
       </provider>
     </entry>

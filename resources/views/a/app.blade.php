@@ -46,11 +46,11 @@
 
                 <li><a href="javascript:void(0);">代理记账</a></li>
 
-                <li><a href="javascript:void(0);">经营许可证</a></li>
+                <li><a href="javascript:void(0);">工商服务</a></li>
 
-                <li><a href="javascript:void(0);">资质代办</a></li>
 
-                <li><a href="javascript:void(0);">财税知识</a></li>
+
+                <li><a href="javascript:void(0);">财税服务</a></li>
 
                 <li><a href="/about">关于我们</a></li>
 
@@ -185,7 +185,7 @@
     </div>
 </div>
 <div class="foot">
-    <div class="main fot"> <span style="float:right;"> </span> Copyright © 20019 大好时光（佛山市）企业管理有限公司 版权所有 </div>
+    <div class="main fot"> <span style="float:right;"> </span> Copyright © 20019 <a href="http://www.beian.miit.gov.cn" >大好时光（佛山市）企业管理有限公司 粤ICP备18159108号</a><a> 佛山市禅城区雾岗路河南工业区91号三楼317 联系方式： 13825566194 </a> </div>
 </div>
 
 <!-- QQ代码 开始 -->
