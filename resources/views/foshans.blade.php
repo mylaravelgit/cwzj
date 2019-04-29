@@ -9,21 +9,21 @@
     <script charset="utf-8" src="./foshan/v.js"></script>
     <link rel="stylesheet" type="text/css" href="./foshan/main.css">
     <link href="style/index.css" rel="stylesheet" type="text/css">
-{{--    <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&float=1&lng=cn"></script>--}}
-{{--    <script type="text/javascript">--}}
-{{--        function init(){--}}
-{{--            var hostname=window.location.hostname;--}}
-{{--            if(hostname!='163.dahaosg.com'){--}}
-{{--            document.getElementById('hostname').innerHTML='';}--}}
+    <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&float=1&lng=cn"></script>
+    <script type="text/javascript">
+        function init(){
+            var hostname=window.location.hostname;
+            if(hostname!='163.dahaosg.com'){
+            document.getElementById('hostname').innerHTML='';}
 
-{{--        }--}}
-{{--    </script>--}}
-{{--    <script type="text/javascript" charset="utf-8" src="./cwzj/JS_Float.aspx"></script><script type="text/javascript" charset="utf-8" src="./cwzj/CdCheck.aspx"></script>--}}
+        }
+    </script>
+    <script type="text/javascript" charset="utf-8" src="./cwzj/JS_Float.aspx"></script><script type="text/javascript" charset="utf-8" src="./cwzj/CdCheck.aspx"></script>
     </head>
 
-<body  onload="init();" >
+<body  onload="init();" onclick="openZoosUrl(&#39;chatwin&#39;);" >
 
-<!--logo onclick="openZoosUrl(&#39;chatwin&#39;);"    onload="init();"  onclick="open_chat()"-->
+<!--logo     onload="init();"  onclick="open_chat()"-->
 
 <!--banner-->
 <div class="top" >
@@ -46,10 +46,10 @@
     <div class="wrapper nav"   >
         <ul class="wrapperss" id="hostname" >
             <li><a href="/" >首页</a></li>
-{{--            <li><a href="javascript:void(0);">公司注册</a></li>--}}
-{{--            <li><a href="javascript:void(0);">代理记账</a></li>--}}
-{{--            <li><a href="javascript:void(0);">工商服务</a></li>--}}
-{{--            <li><a href="javascript:void(0);" >财税服务</a></li>--}}
+            <li><a href="javascript:void(0);">公司注册</a></li>
+            <li><a href="javascript:void(0);">代理记账</a></li>
+            <li><a href="javascript:void(0);">工商服务</a></li>
+            <li><a href="javascript:void(0);" >财税服务</a></li>
             <li><a href="/about">关于我们</a></li>
             <li><a href="/contact">联系我们</a></li>
 
