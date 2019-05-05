@@ -36,7 +36,9 @@
 {{--            </div>--}}
 
         <div class="main">
-            <div class="logo_box"> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/logo.png" class="logo"></a> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/top_gg2.png" class="top_gg"></a> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/top_call.png" class="top_call"></a>
+            <div class="logo_box"> <a href="javascript:void(0);" onclick="open_chat()"><img src="style/logo.png" class="logo"></a>
+
+                <a href="javascript:void(0);" onclick="open_chat()"><img src="style/top_call.png" class="top_call"></a>
                 <div class="clear"></div>
             </div>
         </div>
