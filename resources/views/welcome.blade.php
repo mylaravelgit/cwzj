@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- saved from url=(0022)http://wap.bh0531.com/ -->
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -43,7 +42,7 @@
         </div>
         <div class="row1">
             <p class="title">
-                佛山公司注册
+                公司注册
             </p>
             <p class="sub_title">
                 综合化管理 只需三步 完成注册
@@ -210,8 +209,8 @@
             <img src="./cwzj/footer_tel.png">
         </div>
         <div class="last_ foot_bottom_left" style="color: rgba(255, 255, 255, 0.0980392);">
-            <p><a> 佛山市禅城区雾岗路河南工业区91号三楼317 联系方式： 13825566194 </a></p>
-            <a href="http://www.beian.miit.gov.cn" >大好时光（佛山市）企业管理有限公司 粤ICP备18159108号</a>
+            <p><a>  </a></p>
+            <a href="http://www.beian.miit.gov.cn" >创业之家版权所有 粤ICP备19111331号 </a>
 
         </div>
     </footer>
